@@ -1,0 +1,4 @@
+﻿*.pyc
+*.mp4
+yolov8n.pt
+__pycache__/
